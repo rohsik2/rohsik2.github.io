@@ -17,3 +17,7 @@ print("hello world!!")
 링크를 통해서 https://www.youtube.com/watch?v=ACzFIAOsfpM github블로그를 소개받았습니다.
 typora를 이용하면 좀 더 쉽고 빠르게 글 작성이 가능합니다.
 </br>
+<p>
+  아래링크에서 도큐먼트를 확인 가능합니다. 커스터 마이징이 필요할때 찬찬히 살펴보고 하겠습니다.
+https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+  </p>
